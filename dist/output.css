@@ -466,6 +466,10 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 .mx-10 {
   margin-left: 2.5rem;
   margin-right: 2.5rem;
@@ -500,6 +504,9 @@ video {
 }
 .justify-center {
   justify-content: center;
+}
+.overflow-hidden {
+  overflow: hidden;
 }
 .rounded-full {
   border-radius: 9999px;
